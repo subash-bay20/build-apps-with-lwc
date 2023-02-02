@@ -1,0 +1,26 @@
+.box {
+       border: 2px solid #ddd;
+       width: 88%;
+       margin: 0 auto;
+       padding: 22px;
+       box-shadow: 17px 5px 18px rgb(84 79 76)
+}
+
+.fontSize {
+       text-align: center;
+       font-size: 3rem;
+}
+
+.button {
+       margin-top: 3px;
+       color: rgb(10, 10, 10);
+       text-align: center;
+       background-color: rgb(216, 175, 98);
+       padding: 5px;
+       font-weight: bold;
+}
+
+.button:hover {
+       cursor: pointer;
+       background-color: rgb(218, 157, 45);
+}
